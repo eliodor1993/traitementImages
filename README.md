@@ -1,2 +1,3 @@
 # traitementImages
-code source + rapport
+Profile d'intensite
+Pretraitement
